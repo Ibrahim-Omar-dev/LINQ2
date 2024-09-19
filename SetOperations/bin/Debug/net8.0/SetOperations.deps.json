@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SetOperations/1.0.0": {
+        "dependencies": {
+          "ShareProject2": "1.0.0"
+        },
+        "runtime": {
+          "SetOperations.dll": {}
+        }
+      },
+      "ShareProject2/1.0.0": {
+        "runtime": {
+          "ShareProject2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SetOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShareProject2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

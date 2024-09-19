@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\bin\Debug\net8.0\ShareProject.exe
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\bin\Debug\net8.0\ShareProject.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\bin\Debug\net8.0\ShareProject.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\bin\Debug\net8.0\ShareProject.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\bin\Debug\net8.0\ShareProject.pdb
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\refint\ShareProject.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.pdb
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ShareProject.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject\obj\Debug\net8.0\ref\ShareProject.dll

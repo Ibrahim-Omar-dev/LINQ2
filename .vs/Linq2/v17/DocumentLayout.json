@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|c:\\users\\eltanany 01062856027\\source\\repos\\linq2\\solution1\\shareproject3\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|solutionrelative:shareproject3\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|c:\\users\\eltanany 01062856027\\source\\repos\\linq2\\solution1\\shareproject3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|solutionrelative:shareproject3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|c:\\users\\eltanany 01062856027\\source\\repos\\linq2\\solution1\\shareproject3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E459E535-B917-41B7-8B87-7610306BB485}|ShareProject3\\Extensionmethod.csproj|solutionrelative:shareproject3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Repository.cs",
+              "RelativeDocumentMoniker": "ShareProject3\\Repository.cs",
+              "ToolTip": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Repository.cs",
+              "RelativeToolTip": "ShareProject3\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:18:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Employee.cs",
+              "RelativeDocumentMoniker": "ShareProject3\\Employee.cs",
+              "ToolTip": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Employee.cs",
+              "RelativeToolTip": "ShareProject3\\Employee.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:18:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Program.cs",
+              "RelativeDocumentMoniker": "ShareProject3\\Program.cs",
+              "ToolTip": "C:\\Users\\ELTANANY 01062856027\\source\\repos\\LINQ2\\Solution1\\ShareProject3\\Program.cs",
+              "RelativeToolTip": "ShareProject3\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:18:02.531Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

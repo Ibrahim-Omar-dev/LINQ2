@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\bin\Debug\net8.0\Extensionmethod.exe
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\bin\Debug\net8.0\Extensionmethod.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\bin\Debug\net8.0\Extensionmethod.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\bin\Debug\net8.0\Extensionmethod.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\bin\Debug\net8.0\Extensionmethod.pdb
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\refint\Extensionmethod.dll
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.pdb
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\Extensionmethod.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\linq2\Solution1\ShareProject3\obj\Debug\net8.0\ref\Extensionmethod.dll
